@@ -101,9 +101,9 @@ fun CardItem(
 fun CardItemPreview() {
     CardItem(
         card = PokemonCard(
-            name = "Charizard EX - XY29",
-            setName = "XY Promos",
-            cardNumber = "XY29",
+            name = "Blabla BLA - BLA29",
+            setName = "BLA Promos",
+            cardNumber = "BLA29",
             rarity = "Promo",
             prices = Prices(market = 21.78)
         ),
